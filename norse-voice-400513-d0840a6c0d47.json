@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "norse-voice-400513",
+  "private_key_id": "d0840a6c0d470c62f5b11f8cd889e48a65a46312",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC88YMIy6TUlwGK\neLT8Q4FuVFvuxk3u65rkYMdx8slFWWt/NAWMuptSgdzPW/f76k7eB0v4ZkrgZp9K\nOAPd+mcgXvmrdIgW6+mi/DDXTcSIQ8V8LvA4JmlwOrl7t4EKoyv+B1jFUJCqRluT\nYfq1eWWwoIODdvUJvgyADiO/0EReZ34Elq+oeHE7SgTESKi8OY2LMFnICIhrwN1N\nVd/qIYxA9VMGa1EiW/EUsTK+61i1Nu9B1ErZbibK9DNeClONP0O2QdlrjujvTs/+\nOChqijsqekl3sLm69X4PGDY0CcMOVsj4L9GlL+A2gouR537gVBYGDLmABPb2FSfl\ngk6dIExvAgMBAAECggEADt3Ssv93y05lmnEGJ8JiZ1b15zy6AK5ctDmB/k8Que2T\nDe6Yif31nxe4UwyBrG2l1PlIAS+zSbxpYVw080m/kYZHjzXbe2PTZBw2j5cYrqWx\nq6RZ1frK8wyvCX/8neSm30ies6/NVWIbbhl+5SAiYADROEF4GFMlOQvKKxtTaQYJ\nYs8hK3/u4K/5NllmZCdD0owg/aKRwoSUnFh+in+HRyWh+HXoEdav6WyqY91qGEyZ\nEWA/Pzuffwv0cYnYkAHwENi9nnok7xDXW1gNWmmeHw02Qu354KwIfg8bUF7iZQYc\nSd+BF306x4mESSKyZyJ1tZyczEzQGGnmPejOKxwPwQKBgQDj5rXz1EmC06rlfHio\nD0Bt6mbLXkJlEZ2p7lbUmBJoXmjjZEdrLYq+BXJxBdBC+6ML57U0r1NhwbenNJ3e\nafK9Z+G3kTD3ISvg0JQMUPLP4eCUDGjjJvETGfM63yGLjkyPxQPmAFqZbq2BWcpd\nd+oOCxeckDZnFPWADRjRkDdbYQKBgQDUPSsc8XLvr0HGRUo40RKA2jqpLwGNujGf\nA+mA/WGISx2VJoetsPbh7xOD3mOZOCDfNoKft5l/T57uAfihaKNj1+HaBosDCBVe\nwF8oZhiWygTEiLBC6U/exmskPs4gAzygpCoJJLFrXFsNAbQfzDzK2ABSibdUDkLh\njWpynocJzwKBgFWqtLyqENPvsu6+ojAyQ3rNwMQzc2vAem6VG+igHVNEIdNQL5R3\nMw8IxyL7F3UGWByyhaf/O62kft+IZMtlMgzGjs9M8YYD3xWL8grLJurDsoKUQ50X\nV0lh2M9Jbrehzt/AJB4CBgxk0S2tTedimwWaX87HWtvWwg3XXnvv5Q8hAoGBAL9R\niHyltmsTe+JD8b030ksu7XQ2+FqO/k4Ok74AKpxWwgsCWYocHODbx6a2oOesbg1o\nsOVS9t6JooWAZ2Tw02CcaW5FOah47/KizOS46+95mkSjxuf6M1JpYImix+KZqFxS\nv8XQOtLBxR37bCjBzgc4IUpF9GmkFWwHM26xMp+HAoGBAJfpeuOzKKGXAE32tl2k\n4wVuUasTDcKUr660ZQnJZjGdGj08FILo9v+biOTInKCx2sTjruJVx9CcSFRti6gS\nPISYY2mUDp2Wbdy78vkKm4OKTA68aL77zC5FtnSSL1dbRSKulyu6wEC/yknfGACg\nErTPNNzOocYUHdXVqDgzyvyi\n-----END PRIVATE KEY-----\n",
+  "client_email": "teste-628@norse-voice-400513.iam.gserviceaccount.com",
+  "client_id": "106477488195025559674",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/teste-628%40norse-voice-400513.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
