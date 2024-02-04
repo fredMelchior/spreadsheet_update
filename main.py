@@ -13,8 +13,7 @@ def google_sheets_auth():
                  ".json"
     )
     sh = gc.open_by_url(
-        "https://docs.google.com/spreadsheets/d/15FwTx56cG-Zp_yoyNfEupes8IAZ4zevOzO0_Ncb3XT8/edit?usp"
-        "=sharing"
+        "SPREADSHEET_LINK_GOES_HERE"
     )
 
     return sh
